@@ -1,0 +1,14 @@
+C:\Users\Ossian M. Gutierrez\source\repos\TareaCalculadora\TareaCalculadora\bin\Debug\net8.0\TareaCalculadora.exe
+C:\Users\Ossian M. Gutierrez\source\repos\TareaCalculadora\TareaCalculadora\bin\Debug\net8.0\TareaCalculadora.deps.json
+C:\Users\Ossian M. Gutierrez\source\repos\TareaCalculadora\TareaCalculadora\bin\Debug\net8.0\TareaCalculadora.runtimeconfig.json
+C:\Users\Ossian M. Gutierrez\source\repos\TareaCalculadora\TareaCalculadora\bin\Debug\net8.0\TareaCalculadora.dll
+C:\Users\Ossian M. Gutierrez\source\repos\TareaCalculadora\TareaCalculadora\bin\Debug\net8.0\TareaCalculadora.pdb
+C:\Users\Ossian M. Gutierrez\source\repos\TareaCalculadora\TareaCalculadora\obj\Debug\net8.0\TareaCalculadora.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ossian M. Gutierrez\source\repos\TareaCalculadora\TareaCalculadora\obj\Debug\net8.0\TareaCalculadora.AssemblyInfoInputs.cache
+C:\Users\Ossian M. Gutierrez\source\repos\TareaCalculadora\TareaCalculadora\obj\Debug\net8.0\TareaCalculadora.AssemblyInfo.cs
+C:\Users\Ossian M. Gutierrez\source\repos\TareaCalculadora\TareaCalculadora\obj\Debug\net8.0\TareaCalculadora.csproj.CoreCompileInputs.cache
+C:\Users\Ossian M. Gutierrez\source\repos\TareaCalculadora\TareaCalculadora\obj\Debug\net8.0\TareaCalculadora.dll
+C:\Users\Ossian M. Gutierrez\source\repos\TareaCalculadora\TareaCalculadora\obj\Debug\net8.0\refint\TareaCalculadora.dll
+C:\Users\Ossian M. Gutierrez\source\repos\TareaCalculadora\TareaCalculadora\obj\Debug\net8.0\TareaCalculadora.pdb
+C:\Users\Ossian M. Gutierrez\source\repos\TareaCalculadora\TareaCalculadora\obj\Debug\net8.0\TareaCalculadora.genruntimeconfig.cache
+C:\Users\Ossian M. Gutierrez\source\repos\TareaCalculadora\TareaCalculadora\obj\Debug\net8.0\ref\TareaCalculadora.dll
